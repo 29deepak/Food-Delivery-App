@@ -1,0 +1,25 @@
+header {
+  background-color: rgb(8, 8, 53);
+
+}
+
+footer {
+  background-color: rgb(138, 138, 190);
+  color: aliceblue;
+
+}
+
+.icons-qua {
+  font-size: 30px;
+  color: orange;
+}
+
+.delete-icon {
+  font-size: 30px;
+  color: rgb(130, 13, 13);
+}
+
+.img-order {
+  height: 40px;
+  width: 40px;
+}
